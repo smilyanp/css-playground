@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+}
+
+.sidebar {
+  background-color: aqua;
+  width: 20%;
+}
+.main_content {
+  background-color: blueviolet;
+  width: 80%;
+}
